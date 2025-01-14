@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rongjian Yee</h1>
+<h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">A passionate developer from Malaysia</h3>
+
+'Whatever you do, do it harder than last time'
 
 - 🌱 I’m currently learning **NextJS, LLMs and CNNs**
 
